@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:061A2B,50:0F766E,100:0EA5E9&height=220&section=header&text=Milord%20Java%20Developer&fontSize=48&fontColor=E6FAFF&animation=fadeIn&fontAlignY=40" alt="Milord Java Developer" width="100%" />
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2600&pause=900&color=67E8F9&center=true&vCenter=true&width=620&height=60&lines=Milord+Java+Developer" alt="Milord Java Developer" />
 </p>
 
