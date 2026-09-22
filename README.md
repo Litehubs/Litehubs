@@ -38,5 +38,3 @@ Take a look at my repositories below — this is where new ideas become working 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Litehubs&show_icons=true&hide_border=true&bg_color=0D1B2A&title_color=67E8F9&text_color=E6FAFF&icon_color=22D3EE" alt="Litehubs GitHub statistics" />
 </p>
-
-<p align="center"><i>Keep moving forward, like water.</i> 💠</p>
